@@ -55,14 +55,6 @@
 
 ---
 
-### 📹 Check My YouTube Channel!
-
-🎮 Gaming, 💻 Programming, 🧠 Tips & Tricks  
-📺 
-
-<a href="https://www.youtube.com/" target="_blank">
-  <img src="" alt="YouTube Banner" width="400"/>
-</a>
 
 ---
 
