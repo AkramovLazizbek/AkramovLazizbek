@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Akramov's%20GitHub!&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Welcome Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Lazizbek's%20GitHub!&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Welcome Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Lazizbek</h1>
