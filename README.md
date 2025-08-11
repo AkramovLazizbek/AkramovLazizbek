@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Lazizbek</h1>
-<h3 align="center">💻 Full Stack Developer | 🧠 Lifelong Learner | 🇺🇿 Uzbekistan</h3>
+<h3 align="center">💻 Full Web Developer | 🧠 Lifelong Learner | 🇺🇿 Uzbekistan</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+%7C+Bot+Developer+%7C+Gamer;Open+to+collaboration+%26+freelance+projects;Follow+me+on+YouTube+for+cool+content!" alt="Typing SVG" />
